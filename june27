@@ -1,0 +1,10 @@
+
+Learned how to access the files inside an .iso file by "loopback mount" on Linux.
+
+Screencasts:
+- vim (creating files, copying, cutting, pasting, set number, ctags)
+
+- cmndline (basic commands like date, cp, mv, mkdir etc)
+
+- commands (tar and gzip, basic process handling: listing process(ps ax,top), suspending process, basic file permissions, mount/unmount commands,
+	     interconnect commands using pipes,ln, dd, xargs, tee, touch, text processing(grep, head, tail, sort etc))

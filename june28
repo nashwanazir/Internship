@@ -1,0 +1,14 @@
+Learned (Screencasts):
+
+- Basic C compilation process(stages of compilation)
+
+- Nature of data stored in directories (/bin(machine code of some important programs)
+                                        /etc(configuraation files), /boot(machine code of OS kernel),
+					/dev(special files),
+					/usr(folders like iinclude etc),
+					/home(login directories of all users))
+
+- Debugging with gdb
+
+
+
